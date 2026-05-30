@@ -1,0 +1,6 @@
+{
+  "name": "Social Feedback & Messaging Hub",
+  "description": "An all-in-one workspace to aggregate, analyze, and reply to social media feedback, stories, and direct messages, supercharged by Gemini AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
